@@ -1,4 +1,4 @@
-package com.praksh.logsearch;
+package com.praksh.logsearch.service.client;
 
 import java.io.BufferedReader;
 import java.io.IOException;
